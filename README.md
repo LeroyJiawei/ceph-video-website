@@ -1,5 +1,5 @@
 # ceph-video-website
-一个基于ceph对象存储的视频网站(其实是作业)
+作业--ceph对象存储视频网站
 
 目录:
   1.vue-front:vue前端文件的目录
