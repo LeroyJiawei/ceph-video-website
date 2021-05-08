@@ -27,7 +27,7 @@
     "hoek": "^4.2.1",
     "https-proxy-agent": "^2.2.0",
     "loading-vue": "^0.0.2",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "macaddress": "^0.2.9",
     "mime": "^1.4.1",
     "no-case": "^2.3.2",
